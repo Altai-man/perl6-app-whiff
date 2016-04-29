@@ -1,4 +1,4 @@
-# perl6-app-whiff
+# perl6-app-whiff  [![Build Status](https://travis-ci.org/Altai-man/perl6-App-Whiff.svg?branch=master)](https://travis-ci.org/Altai-man/perl6-App-Whiff)
 
 Old plain whiff is here, now in Perl 6;
 

@@ -4,7 +4,7 @@
     "license" : "Artistic-2.0",
     "tags": ["Utils", "Admin"],
     "version" : "0.1.0",
-    "author" : "github:Altai-man",
+    "auth" : "zef:Altai-man",
     "description" : "Port of perl whiff",
     "depends" : [ "File::Which" ],
     "provides" : {
